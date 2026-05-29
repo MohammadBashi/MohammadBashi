@@ -83,7 +83,7 @@ If you enjoy my projects and want to support what I do, you can buy me a coffee 
 # 🌍 Connect With Me
 
 * GitHub: https://github.com/MohammadBashi
-* LinkedIn: https://linkedin.com/in/Mohammad Bashi
+* LinkedIn: https://linkedin.com/in/MohammadBashi
 
 ---
 
