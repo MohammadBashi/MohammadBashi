@@ -20,13 +20,12 @@
 # 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-
 ```txt id="n8v3re"
-JavaScript            6 hrs 50 mins      ██████▒░░░░░░░░░░░░░░░░░░   15.63 %
+JavaScript            6 hrs 50 mins      ███████████▓░░░░░░░░░░░░░   25.14 %
+HTML                  2 hrs 10 mins      ██████▒░░░░░░░░░░░░░░░░░░   15.63 %
 CSS                   4 hrs 35 mins      ████████▒░░░░░░░░░░░░░░░░   18.70 %
-HTML                  2 hrs 10 mins      ███████████▓░░░░░░░░░░░░░   25.14 %
-C++                   3 hrs 15 mins      ████░░░░░░░░░░░░░░░░░░░░░   09.17 %
-Python                2 hrs 20 mins      █████▒░░░░░░░░░░░░░░░░░░░   13.60 %
+C++                   3 hrs 15 mins      █████▒░░░░░░░░░░░░░░░░░░░   09.17 %
+Python                2 hrs 20 mins      ████░░░░░░░░░░░░░░░░░░░░░   13.60 %
 SQL Server            1 hr 40 mins       ██▒░░░░░░░░░░░░░░░░░░░░░░   06.80 %
 Prompt Engineering    3 hrs              █████▒░░░░░░░░░░░░░░░░░░░   12.21 %
 ```
